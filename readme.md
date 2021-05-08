@@ -1,12 +1,16 @@
 # outside-click-wrapper
 
-<a href="https://github.com/devendraSaroj/outside-click-wrapper/blob/master/LICENSE">
-<img alt="NPM" src="https://img.shields.io/npm/l/outside-click-wrapper">
+<a target="_blank" href="https://github.com/devendraSaroj/outside-click-wrapper/blob/master/LICENSE" >
+<img alt="LICENSE" src="https://img.shields.io/npm/l/outside-click-wrapper">
 </a>
 
-![NPM License](https://img.shields.io/npm/l/outside-click-wrapper)
-![NPM Size](https://img.shields.io/bundlephobia/min/outside-click-wrapper)
-![NPM Version](https://img.shields.io/npm/v/outside-click-wrapper)
+<a target="_blank" href="https://www.npmjs.com/package/outside-click-wrapper" >
+<img alt="SIZE" src="https://img.shields.io/bundlephobia/min/outside-click-wrapper">
+</a>
+
+<a target="_blank" href="https://www.npmjs.com/package/outside-click-wrapper" >
+<img alt="npm" src="https://img.shields.io/npm/v/outside-click-wrapper">
+</a>
 
 `outside-click-wrapper` is a light-weight react component that detects the click events occurring outside of wrapped elements.
 
