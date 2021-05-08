@@ -4,6 +4,7 @@
   "description": "A light-weight React component to detect outside click on any element.",
   "main": "./lib/index.js",
   "author": "Devendra Saroj",
+  "keywords": ["outside-click", "react-outside-click", "react-outside", "click-outside", "detect-outside-click", "outside-click-wrapper"],
   "license": "MIT",
   "homepage": "https://github.com/devendraSaroj/outside-click-wrapper.git",
   "repository": {
