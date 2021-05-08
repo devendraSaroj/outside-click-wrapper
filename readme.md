@@ -1,14 +1,14 @@
 # outside-click-wrapper
 
-<a target="_blank" href="https://github.com/devendraSaroj/outside-click-wrapper/blob/master/LICENSE" >
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devendraSaroj/outside-click-wrapper/blob/master/LICENSE" >
 <img alt="LICENSE" src="https://img.shields.io/npm/l/outside-click-wrapper">
 </a>
 
-<a target="_blank" href="https://www.npmjs.com/package/outside-click-wrapper" >
+<a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/outside-click-wrapper" >
 <img alt="SIZE" src="https://img.shields.io/bundlephobia/min/outside-click-wrapper">
 </a>
 
-<a target="_blank" href="https://www.npmjs.com/package/outside-click-wrapper" >
+<a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/package/outside-click-wrapper" >
 <img alt="npm" src="https://img.shields.io/npm/v/outside-click-wrapper">
 </a>
 
