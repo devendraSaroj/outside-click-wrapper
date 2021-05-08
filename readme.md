@@ -16,14 +16,16 @@ npm install outside-click-wrapper
 
 ### Default Example
 
-```react
+```javascript
 import React, { Component } from "react";
 import { OutsideClickWrapper } from "outside-click-wrapper";
 
 export default class DropdownOption extends Component {
   render() {
     return (
-      <OutsideClickWrapper onOutsideClick={() => console.log("clicked outside of this element")}>
+      <OutsideClickWrapper
+        onOutsideClick={() => console.log("clicked outside of this element")}
+      >
         <div className="dropdwon-container">
           <li> 1st option </li>
           <li> 2nd option </li>
@@ -32,36 +34,33 @@ export default class DropdownOption extends Component {
     );
   }
 }
-
 ```
 
 ### Example without extra div
 
-```react
+```javascript
 import React, { Component } from "react";
 import { OutsideClickWrapper } from "outside-click-wrapper";
 
-
 /**
-* In this example inner div wrapping li elements is discarded
-* meaning outside-click-wrapper can itself act as a container for wrapped
-* elements
-*/
+ * In this example inner div wrapping li elements is discarded
+ * meaning outside-click-wrapper can itself act as a container for wrapped
+ * elements
+ */
 
 export default class DropdownOption extends Component {
   render() {
     return (
       <OutsideClickWrapper
-          className="dropdwon-container"
-          onOutsideClick={() => console.log("clicked outside of this element")}
-          >
-          <li> 1st option </li>
-          <li> 2nd option </li>
+        className="dropdwon-container"
+        onOutsideClick={() => console.log("clicked outside of this element")}
+      >
+        <li> 1st option </li>
+        <li> 2nd option </li>
       </OutsideClickWrapper>
     );
   }
 }
-
 ```
 
 ## Props
