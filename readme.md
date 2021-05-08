@@ -103,4 +103,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-`outside-click-wrapper` is licensed under [MIT License](https://choosealicense.com/licenses/mit/)
+`outside-click-wrapper` is licensed under [MIT License](https://github.com/devendraSaroj/outside-click-wrapper/blob/master/LICENSE)
