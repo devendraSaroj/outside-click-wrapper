@@ -13,6 +13,8 @@
 </a>
 
 <br/>
+<br/>
+
 `outside-click-wrapper` is a light-weight react component that detects the click events occurring outside of wrapped elements.
 
 ## Installation
