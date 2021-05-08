@@ -32,7 +32,7 @@ export default class OutsideClickWrapper extends Component {
       return;
     }
     if (!this.outsideClickRef.contains(event.target)) {
-      this.props.onOutsideClick();
+      this.props.onOutsideClick(event);
     }
   };
 
@@ -41,7 +41,7 @@ export default class OutsideClickWrapper extends Component {
       this.isOnClickTriggered = true;
     }
     if (typeof this.props.onClick === "function") {
-      this.props.onClick();
+      this.props.onClick(event);
     }
   };
 
