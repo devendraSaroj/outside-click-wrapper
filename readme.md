@@ -1,6 +1,6 @@
 # outside-click-wrapper
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devendraSaroj/outside-click-wrapper/blob/master/LICENSE" >
+<a  href="#" onclick='window.open("https://github.com/devendraSaroj/outside-click-wrapper/blob/master/LICENSE"; return false;'>
 <img alt="LICENSE" src="https://img.shields.io/npm/l/outside-click-wrapper">
 </a>
 
@@ -12,6 +12,7 @@
 <img alt="npm" src="https://img.shields.io/npm/v/outside-click-wrapper">
 </a>
 
+<br/>
 `outside-click-wrapper` is a light-weight react component that detects the click events occurring outside of wrapped elements.
 
 ## Installation
