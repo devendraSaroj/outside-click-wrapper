@@ -104,6 +104,10 @@ export type OnClickCallback = (e: MouseEvent | TouchEvent) => void;
 
 ## Changelog
 
+#### v1.2.1
+
+- migration to typescript for enhanced type checks and experience with intellisense
+
 #### v1.1.1
 
 - callback returns MouseEvents
