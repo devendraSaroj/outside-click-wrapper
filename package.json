@@ -1,6 +1,6 @@
 {
   "name": "outside-click-wrapper",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A light-weight React component to detect outside click on any element.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
